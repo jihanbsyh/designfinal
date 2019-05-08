@@ -41,3 +41,7 @@ h4 {
 .bio {
 	text-align: justify;
 }
+.carousel .carousel-item {
+	width: 500px;
+	height: 400px;
+}
